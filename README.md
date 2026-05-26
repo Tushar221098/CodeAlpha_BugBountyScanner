@@ -41,4 +41,4 @@ The scanner uses Python's `os.walk()` function to go through a folder and its su
 Each file is opened and read line by line. The scanner checks each line for risky keywords or patterns. If a match is found, the tool stores the finding and prints it in a final report.
 
 ## Screenshot
-[output] (./output.png)
+![Output](screenshots/output.png)
