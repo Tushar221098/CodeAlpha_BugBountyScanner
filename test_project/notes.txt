@@ -1,0 +1,6 @@
+This file is used for testing.
+
+The developer should not store password values inside code.
+
+Example insecure link:
+http://testsite.com
